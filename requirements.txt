@@ -1,0 +1,5 @@
+flask
+torchvision
+torch
+nltk
+chat
